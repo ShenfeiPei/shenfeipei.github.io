@@ -1,0 +1,27 @@
+---
+layout: post
+title: post-sample
+date: 2020-01-02 19:20:23 +0900
+category: sample
+lang: zh
+---
+# GitHub Pages 搭建个人主页
+> Hello!
+
+## Step 0: install jekyll
+ref: Jekyll [Quickstart](https://jekyllrb.com/docs/)
+note: 最好按照指引创建一个myblog模板，并在浏览器中看一下
+
+## Step 1: 选一个合适的主题
+ref: http://jekyllthemes.org/
+下载，解压，重命名为username.github.io
+
+## Step 2: 用markdown语法写博客
+在username.github.io目录下，先执行
+jekyll server 
+编辑_posts/*.markdown文件, 保存后, 返回浏览器查看
+
+## Step 3: 发布到github pages
+可以利用pycharm直接将username.github.io上传到github，（此时github上没有username.github.io仓库，pycharm可以自动创建）
+也可以先创建username.github.io仓库，而后利用git命令将本地文件夹push到github
+
