@@ -1,0 +1,95 @@
+---
+layout: post
+title: Datasets
+date: 2020-09-16 19:20:23 +0900
+category: sample
+lang: zh
+---
+> 整理上传常用数据集，20200916版
+
+| Datasets                                                              | # Samples | # Subjects | # Clusters |
+| :-                                                                    | :-:       | :-:        | :-:        |
+| [Abalone](https://pan.baidu.com/s/1boT36Z76apG7LxoaXGJeyg)            | 4177      | 8          | 3          |
+| [Adience_29v2](https://pan.baidu.com/s/1drn1AqUkD02prtxTpF0SeA)       | 19370     | 256        | 2284       |
+| [Aloi](https://pan.baidu.com/s/1GTUsUVFuD_fh0wEtAItDkA)               | 108000    | 128        | 1000       |
+| [Ar](https://pan.baidu.com/s/1ltlYjQb8MlpET2JIboH8YA)                 | 2600      | 256        | 100        |
+| [AR_high](https://pan.baidu.com/s/1GDhW8rHCHoorYBYrWuNzig)            | 2600      | 19800      | 100        |
+| [Binalpha](https://pan.baidu.com/s/1AntKa8_VrEVEwKRuOHR6hA)           | 1404      | 320        | 36         |
+| [CACD_29v2](https://pan.baidu.com/s/1lgorpjGhkdBMwDek6Z6dKg)          | 163446    | 256        | 2000       |
+| [CALFW_29v2](https://pan.baidu.com/s/1XBQvhtc4pUryFoa2ASJ6YQ)         | 12174     | 256        | 4025       |
+| [CAS_PEAL_29v2](https://pan.baidu.com/s/11tl1tLVYVFYF033l3WUVMg)      | 30863     | 256        | 1040       |
+| [CASIA_FaceV5_29v2](https://pan.baidu.com/s/1RnLqdVD9inxiw05WKTRqDw)  | 2500      | 256        | 500        |
+| [CASIA_WebFace_29v2](https://pan.baidu.com/s/1s40LTniKVFgTyaaNNA7Bcw) | 494414    | 256        | 10575      |
+| [CelebA_29v2](https://pan.baidu.com/s/1EDmNkD-FW9BoMMnYBgaiqA)        | 202599    | 256        | 10177      |
+| [CFP_29v2](https://pan.baidu.com/s/1_WnCFcip0J2OGMfMz36flQ)           | 7000      | 256        | 500        |
+| [CK+\_29v2](https://pan.baidu.com/s/1dp7CdutKj0Fq27jhyH4vzA)          | 10708     | 256        | 123        |
+| [CK_29v2](https://pan.baidu.com/s/172xfYf3IDXVRzrrPUj96Eg)            | 8795      | 256        | 97         |
+| [CMUPIE](https://pan.baidu.com/s/1BFMSrsY6HKwTWBI8yD4-5g)             | 2856      | 1024       | 68         |
+| [CNBC_29v2](https://pan.baidu.com/s/1OwLswT0K6sleM9ec1L-0ZQ)          | 6574      | 256        | 236        |
+| [Coil20Data_25_uni](https://pan.baidu.com/s/1fiG3q4_oSyTaUng0i8dsQA)  | 1440      | 1024       | 20         |
+| [Colon](https://pan.baidu.com/s/1wfLmYAodP_cte0jKIhpt7g)              | 62        | 2000       | 2          |
+| [Corel_5k_uni](https://pan.baidu.com/s/1NVAbaOLNzb7qvhE9EVCZEA)       | 5000      | 423        | 50         |
+| [Covtype](https://pan.baidu.com/s/1o061PpXuCGsXjsTme7nu3w)            | 581012    | 54         | 7          |
+| [CPLFW_29v2](https://pan.baidu.com/s/1yiw0j4IBIJtNTRIIDmRNtw)         | 11652     | 256        | 3930       |
+| [Dexter](https://pan.baidu.com/s/1WYUeb_tsNGksFQG6ocOqEg)             | 600       | 20000      | 2          |
+| [Digits](https://pan.baidu.com/s/1BxYthJUyZyITDf6Mi0sJqA)             | 4000      | 256        | 10         |
+| [Dorothea](https://pan.baidu.com/s/1uTvyRfcJvYnrDbGQWUs2mA)           | 1150      | 100000     | 2          |
+| [EYale_B](https://pan.baidu.com/s/1ikF7oJTxiXR8eHfxoy51gg)            | 2414      | 1024       | 38         |
+| [EYaleB32](https://pan.baidu.com/s/1ydOC3SKvjtZwOKzDJ75t8Q)           | 2414      | 1024       | 38         |
+| [EYaleB_29v2](https://pan.baidu.com/s/14NkYLdrt2KFgYgOS2wN48w)        | 16128     | 256        | 28         |
+| [Face94](https://pan.baidu.com/s/1EGx4S6n2BDvFnqq1Rw56Rw)             | 2640      | 36000      | 132        |
+| [Face94_256](https://pan.baidu.com/s/1KdqY9YbF_19maOEEYVVKuA)         | 2640      | 256        | 132        |
+| [Face94_29v2](https://pan.baidu.com/s/1hLlpD6vK52tq93E0IE8Avw)        | 3059      | 256        | 153        |
+| [Face95](https://pan.baidu.com/s/15LA_BAylnErGcYGTOLd91Q)             | 1440      | 36000      | 72         |
+| [Face95_256](https://pan.baidu.com/s/1MUtCBZEKNTRHGJgpUjWYqg)         | 1440      | 256        | 72         |
+| [Face95_29v2](https://pan.baidu.com/s/1wGJQgGBQLxmZ5_sNK3wXtA)        | 1440      | 256        | 72         |
+| [Face96_29v2](https://pan.baidu.com/s/1c6KXru9xilg0MQxdsNY-wQ)        | 3016      | 256        | 151        |
+| [FEI](https://pan.baidu.com/s/1C_d3lW0O3YyRqdLH28S6OA)                | 700       | 307200     | 50         |
+| [FERET](https://pan.baidu.com/s/1UNMmX8d_JVXTdcZ4ZkyieQ)              | 1400      | 6400       | 200        |
+| [FERET_29v2](https://pan.baidu.com/s/1CAd8UUcCAlD5Pq43NXhUDg)         | 11338     | 256        | 994        |
+| [Fingerprint](https://pan.baidu.com/s/1uUQ5mmf4gwLE2n7RU4emWg)        | 168       | 65536      | 21         |
+| [Gisette](https://pan.baidu.com/s/1CX56ZMaJf-ZFIkyEVfUksA)            | 7000      | 5000       | 2          |
+| [Grimace](https://pan.baidu.com/s/170blVYZTENvc3eoWXdGzxA)            | 360       | 36000      | 18         |
+| [Grimace_256](https://pan.baidu.com/s/1InkaWN5z50er4pUBzPjWqw)        | 360       | 256        | 18         |
+| [Grimace_29v2](https://pan.baidu.com/s/1R0b51fKV6yCYIBntXsWXfA)       | 360       | 256        | 18         |
+| [GTdb](https://pan.baidu.com/s/1ckYwKOgsuqvpn_cG1nwKpw)               | 750       | 21600      | 50         |
+| [IMDB_29v2](https://pan.baidu.com/s/14Fb082T2-yUh_sfjGQAGRg)          | 460723    | 256        | 20284      |
+| [IMM](https://pan.baidu.com/s/13bU2SyBojF_1_QBz1EOu_w)                | 240       | 307200     | 40         |
+| [IMM_29v2](https://pan.baidu.com/s/12nd1mMKMa_urmqn-IzlGOw)           | 240       | 256        | 40         |
+| [Iris](https://pan.baidu.com/s/10s0ysmIkOWUfwaR9jtzALw)               | 150       | 4          | 3          |
+| [Isolet](https://pan.baidu.com/s/18ivyE2QmWaOhlPjjpeGcPQ)             | 7797      | 617        | 26         |
+| [Jaffe_29v2](https://pan.baidu.com/s/1N2H0c0aNRY0NRWI5kCg69A)         | 213       | 256        | 10         |
+| [Jaffe_65536](https://pan.baidu.com/s/1vXDfKUcEhGq7LEMUUf_eBw)        | 200       | 65536      | 10         |
+| [Jaffe_676](https://pan.baidu.com/s/1qUWaGxX11X2_x4X_73yUWg)          | 213       | 676        | 10         |
+| [LFW_29v2](https://pan.baidu.com/s/14MKIGoQymIS48gzpI6Nnrg)           | 13233     | 256        | 5749       |
+| [LM](https://pan.baidu.com/s/1Cs_-9cNvYKAnUoUKui0-Bg)                 | 360       | 90         | 15         |
+| [Madelon](https://pan.baidu.com/s/1Qhch5B6EBNvLcXMboaUE7g)            | 2600      | 500        | 2          |
+| [Mice_protein](https://pan.baidu.com/s/1bMoi5Vnln3OWzLmdLVbMWw)       | 1077      | 77         | 8          |
+| [Mnist10k](https://pan.baidu.com/s/1ijvWdaGp71yNhPp7Apwr9A)           | 10000     | 4096       | 10         |
+| [Mnist](https://pan.baidu.com/s/15eePIDHPrJ1zqSYk7TtwyA)              | 70000     | 784        | 10         |
+| [Moon2_2](https://pan.baidu.com/s/1_DNUlsJty9NIBxzpLKHmJg)            | 100       | 2          | 1          |
+| [Mpeg7](https://pan.baidu.com/s/1-WnR0tBMwg9DGrEegjyCYQ)              | 1400      | 6000       | 70         |
+| [MSRA25](https://pan.baidu.com/s/1m8d_ajzPGd9C6z1KSJAsYA)             | 1799      | 256        | 12         |
+| [MUCT_29v2](https://pan.baidu.com/s/1y9637vL50aBbxAR64eqX6w)          | 3755      | 256        | 276        |
+| [Nci](https://pan.baidu.com/s/1ZK0qvp3zg0kb1vohWQHv2g)                | 61        | 5244       | 8          |
+| [Olivetti](https://pan.baidu.com/s/1GNFBBzk48-ytvHB8JuTKLg)           | 900       | 2500       | 10         |
+| [ORL32x32](https://pan.baidu.com/s/1yVy7m4d2X0ePuwYB9eBXrw)           | 400       | 1024       | 40         |
+| [ORL64x64](https://pan.baidu.com/s/1-kH2XsM5O68lKcTx719K9w)           | 400       | 4096       | 40         |
+| [ORL_29v2](https://pan.baidu.com/s/159GhhN1XuV6lxMXm8Qw-gw)           | 400       | 256        | 40         |
+| [Palm](https://pan.baidu.com/s/19-CY3Gh1jEHdxd8tP3TFWA)               | 2000      | 256        | 100        |
+| [PalmData25_uni](https://pan.baidu.com/s/1z0TjfYpeyHgaDVv1orApZA)     | 2000      | 256        | 100        |
+| [Pendigits](https://pan.baidu.com/s/1aveFTT-JeViqLUVodX3_sQ)          | 10992     | 16         | 10         |
+| [PINS_29v2](https://pan.baidu.com/s/1wyaRFsDqtmOa2j2dBWE5sA)          | 10770     | 256        | 100        |
+| [Pixraw10P](https://pan.baidu.com/s/1R5LA6dullCE4KzXRr7fK7w)          | 100       | 10000      | 10         |
+| [Poker](https://pan.baidu.com/s/1itm4EKbzA3A38Yk3PlW1TQ)              | 1025010   | 10         | 10         |
+| [RaFD_29v2](https://pan.baidu.com/s/16fnn7x_YvDJxxJtKZ_3E2g)          | 8040      | 256        | 67         |
+| [Srbct](https://pan.baidu.com/s/15dLthwwbTtblaBWdHht16A)              | 63        | 2308       | 4          |
+| [STL10](https://pan.baidu.com/s/1qdlLkwtvSxnQR_cE4iUjOg)              | 13000     | 2048       | 10         |
+| [Umist644](https://pan.baidu.com/s/1Xg7Nq-8VpRJK3COvKmuUNQ)           | 575       | 644        | 20         |
+| [Umist](https://pan.baidu.com/s/1RCN8N2eZeeRf2ZiEtiyyww)              | 575       | 10304      | 20         |
+| [USPS](https://pan.baidu.com/s/13-nmZx_6NNYOEwEpfz3GGw)               | 9298      | 256        | 10         |
+| [Uspst_uni](https://pan.baidu.com/s/1X_3i0qLYwSonRKmynTAjrw)          | 2007      | 256        | 10         |
+| [Yale32](https://pan.baidu.com/s/1I_95XL-_I9pCJ-W-D1cJGw)             | 165       | 1024       | 15         |
+| [Yale64](https://pan.baidu.com/s/1cNYepRKmKMRpg5CjIxRg0Q)             | 165       | 4096       | 15         |
+| [YaleFace_29v2](https://pan.baidu.com/s/1UYKwu1dyJSWWoV88Jm8ksQ)      | 165       | 256        | 15         |
+| [YouTubeFace_29v2](https://pan.baidu.com/s/1Y7oiKAosHbdyIVanJ9S1Uw)   | 621126    | 256        | 1595       |
